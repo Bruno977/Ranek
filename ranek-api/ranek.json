@@ -10,6 +10,18 @@
       "numero": "25",
       "estado": "RJ",
       "cidade": "Rio de Janeiro"
+    },
+    {
+      "id": "bruno@teste.com",
+      "nome": "Bruno",
+      "email": "bruno@teste.com",
+      "senha": "123",
+      "cep": "28300000",
+      "rua": "asdasd",
+      "numero": "440",
+      "bairro": "asdasd",
+      "cidade": "Itaperuna",
+      "estado": "RJ"
     }
   ],
   "produto": [
