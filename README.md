@@ -1,24 +1,4 @@
-# ranek
+# Ranek
+Projeto Final do curso origamid - Vue.js
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![ranek](https://user-images.githubusercontent.com/47644815/162103889-7448af63-fd21-4b60-8614-a00b76d6d110.png)
